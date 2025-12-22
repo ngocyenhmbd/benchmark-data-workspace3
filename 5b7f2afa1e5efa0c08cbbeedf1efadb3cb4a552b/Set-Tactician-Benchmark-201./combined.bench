@@ -1,31 +1,20 @@
-coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Equivalence.iff_sym	201	8.581467	2	1
-coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.imp_iff_compat_l	201	2.023078	1	1
-coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.eq_stepl	201	4.265401	1	1
-coq-tactician-stdlib.8.11.dev	Coq.Numbers.NatInt.NZGcd.NZGcdProp.divide_1_l	201	9.775556	2	1
-coq-tactician-stdlib.8.11.dev	Coq.Numbers.NatInt.NZGcd.NZGcdProp.divide_refl	201	8.740994	2	1
-coq-tactician-stdlib.8.11.dev	Coq.Numbers.Integer.Abstract.ZBits.ZBitsProp.bits_iff_nonneg'	201	10.261433	2	1
-coq-tactician-stdlib.8.11.dev	Coq.Vectors.VectorSpec.take_O	201	206.747536	2528	64
-coq-tactician-stdlib.8.11.dev	Coq.Vectors.VectorSpec.append_comm_cons	201	20.124556	108	18
-coq-tactician-stdlib.8.11.dev	Coq.Numbers.Cyclic.Int63.Int63.wB_diff_0	201
-coq-tactician-stdlib.8.11.dev	Coq.Numbers.Cyclic.Int63.Int63.to_Z_0	201	46.356880	3	1
-coq-tactician-stdlib.8.11.dev	Coq.Numbers.Cyclic.Int63.Int63.succc_spec	201
-coq-tactician-stdlib.8.11.dev	Coq.Numbers.Cyclic.Int63.Int63.pred_spec	201	73.092466	5	2
-coq-tactician-stdlib.8.11.dev	Coq.Numbers.Cyclic.Int63.Int63.tail00_spec	201	74.162560	713	37
-coq-tactician-stdlib.8.11.dev	Coq.Numbers.Cyclic.Int63.Int63.eqm_mod	201
-coq-tactician-stdlib.8.11.dev	Coq.Numbers.Cyclic.Int63.Int63.lsr0	201
-coq-tactician-stdlib.8.11.dev	Coq.Numbers.Cyclic.Int63.Int63.bit_M	201
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Equivalence.iff_sym	201	8.562134	2	1
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.imp_iff_compat_l	201	2.072014	1	1
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.eq_stepl	201	4.395485	1	1
+coq-tactician-stdlib.8.11.dev	Coq.Numbers.NatInt.NZDiv.NZDivProp.div_0_l	201	9.941891	2	1
+coq-tactician-stdlib.8.11.dev	Coq.Numbers.NatInt.NZDiv.NZDivProp.mod_0_l	201	8.814184	2	1
+coq-tactician-stdlib.8.11.dev	Coq.Arith.EqNat.eq_nat_refl	201	33.065886	1298	47
+coq-tactician-stdlib.8.11.dev	Coq.ZArith.Znat.positive_N_Z	201	25.539091	143	15
+coq-tactician-stdlib.8.11.dev	Coq.ZArith.Znat.positive_N_nat	201	25.624917	143	15
+coq-tactician-stdlib.8.11.dev	Coq.ZArith.Znat.Z2N.inj_testbit	201	25.123982	3	2
+coq-tactician-stdlib.8.11.dev	Coq.ZArith.Znat.Zabs2N.inj_0	201	62.077444	3	1
+coq-tactician-stdlib.8.11.dev	Coq.ZArith.Znat.Z2Nat.inj_neg	201
+coq-tactician-stdlib.8.11.dev	Coq.ZArith.Znat.Zabs2Nat.inj_pos	201	26.725182	143	15
+coq-tactician-stdlib.8.11.dev	Coq.Reals.Ranalysis_reg.AppVar	201	104.901142	1	1
 coq-tactician-stdlib.8.11.dev	Coq.nsatz.Nsatz.R_one_zero	201
-coq-tactician-stdlib.8.11.dev	Coq.Reals.Ratan.derivable_pt_ps_atan	201
-coq-tactician-stdlib.8.11.dev	Coq.Reals.Ranalysis5.derivable_pt_id_interv	201
-coq-tactician-stdlib.8.11.dev	Coq.Reals.Ranalysis_reg.AppVar	201
-coq-tactician-stdlib.8.11.dev	Coq.Reals.Ranalysis4.derivable_pt_cosh	201
-coq-tactician-stdlib.8.11.dev	Coq.Reals.Ranalysis4.derivable_exp	201
-coq-tactician-stdlib.8.11.dev	Coq.Reals.Ranalysis4.derivable_sinh	201
+coq-tactician-stdlib.8.11.dev	Coq.Reals.Ratan.derivable_pt_ps_atan	201	72.948402	2	1
+coq-tactician-stdlib.8.11.dev	Coq.Reals.Ranalysis5.derivable_pt_id_interv	201	101.275076	2	1
+coq-tactician-stdlib.8.11.dev	Coq.Reals.Ranalysis4.derivable_pt_cosh	201	95.347373	3	1
+coq-tactician-stdlib.8.11.dev	Coq.Reals.Ranalysis4.derivable_exp	201	95.648801	2	1
+coq-tactician-stdlib.8.11.dev	Coq.Reals.Ranalysis4.derivable_sinh	201	96.482478	2	1
 coq-tactician-stdlib.8.11.dev	Coq.Reals.Rtrigo_calc.PI4_RGT_0	201
-coq-tactician-stdlib.8.11.dev	Coq.Reals.Rtrigo_reg.derive_pt_sin	201
-coq-tactician-stdlib.8.11.dev	Coq.Reals.Sqrt_reg.derive_pt_sqrt	201
-coq-tactician-stdlib.8.11.dev	Coq.Reals.Rtrigo_def.exp_cof_no_R0	201
-coq-tactician-stdlib.8.11.dev	Coq.Reals.R_sqrt.sqrt_positivity	201
-coq-tactician-stdlib.8.11.dev	Coq.Reals.Rtopology.included_trans	201
-coq-tactician-stdlib.8.11.dev	Coq.Reals.Ranalysis1.continuity_mult	201
-coq-tactician-stdlib.8.11.dev	Coq.Reals.Ranalysis1.derivable_continuous	201

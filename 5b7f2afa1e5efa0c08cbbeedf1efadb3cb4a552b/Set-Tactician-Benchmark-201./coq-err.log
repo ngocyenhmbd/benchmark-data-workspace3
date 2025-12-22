@@ -1,6 +1,0 @@
-File "./theories/ZArith/Znat.v", line 763, characters 1-13:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./plugins/nsatz/Nsatz.v", line 475, characters 0-7:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Reals/Rtrigo_calc.v", line 143, characters 2-100:
-Warning: Benchmarking error: Forked process exited with signal -11

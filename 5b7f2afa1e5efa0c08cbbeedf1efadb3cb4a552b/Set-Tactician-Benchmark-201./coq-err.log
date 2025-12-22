@@ -1,0 +1,92 @@
+File "./theories/Numbers/Cyclic/Int63/Int63.v", line 288, characters 7-52:
+Warning: Benchmarking error: Forked process exited with code 1
+File "./theories/Numbers/Cyclic/Int63/Int63.v", line 600, characters 7-23:
+Warning: Benchmarking error: Forked process exited with signal -11
+File "./theories/Numbers/Cyclic/Int63/Int63.v", line 699, characters 2-11:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Numbers/Cyclic/Int63/Int63.v", line 783, characters 7-53:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2224 (canonical: localhost)
+127.0.0.1:2224 (canonical: )
+File "./theories/Numbers/Cyclic/Int63/Int63.v", line 935, characters 7-41:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2224 (canonical: localhost)
+127.0.0.1:2224 (canonical: )
+File "./plugins/nsatz/Nsatz.v", line 475, characters 0-7:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2224 (canonical: localhost)
+127.0.0.1:2224 (canonical: )
+File "./theories/Reals/Ratan.v", line 1414, characters 0-17:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2224 (canonical: localhost)
+127.0.0.1:2224 (canonical: )
+File "./theories/Reals/Ranalysis5.v", line 66, characters 0-7:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2224 (canonical: localhost)
+127.0.0.1:2224 (canonical: )
+File "./theories/Reals/Ranalysis_reg.v", line 34, characters 0-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2224 (canonical: localhost)
+127.0.0.1:2224 (canonical: )
+File "./theories/Reals/Ranalysis4.v", line 348, characters 2-8:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2224 (canonical: localhost)
+127.0.0.1:2224 (canonical: )
+File "./theories/Reals/Ranalysis4.v", line 364, characters 2-43:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2224 (canonical: localhost)
+127.0.0.1:2224 (canonical: )
+File "./theories/Reals/Ranalysis4.v", line 374, characters 2-44:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2224 (canonical: localhost)
+127.0.0.1:2224 (canonical: )
+File "./theories/Reals/Rtrigo_calc.v", line 143, characters 2-100:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2224 (canonical: localhost)
+127.0.0.1:2224 (canonical: )
+File "./theories/Reals/Rtrigo_reg.v", line 457, characters 2-31:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2224 (canonical: localhost)
+127.0.0.1:2224 (canonical: )
+File "./theories/Reals/Sqrt_reg.v", line 321, characters 2-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2224 (canonical: localhost)
+127.0.0.1:2224 (canonical: )
+File "./theories/Reals/Rtrigo_def.v", line 22, characters 2-8:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2224 (canonical: localhost)
+127.0.0.1:2224 (canonical: )
+File "./theories/Reals/R_sqrt.v", line 34, characters 2-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2224 (canonical: localhost)
+127.0.0.1:2224 (canonical: )
+File "./theories/Reals/Rtopology.v", line 67, characters 2-55:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2224 (canonical: localhost)
+127.0.0.1:2224 (canonical: )
+File "./theories/Reals/Ranalysis1.v", line 240, characters 2-81:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2224 (canonical: localhost)
+127.0.0.1:2224 (canonical: )
+File "./theories/Reals/Ranalysis1.v", line 572, characters 2-45:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2224 (canonical: localhost)
+127.0.0.1:2224 (canonical: )

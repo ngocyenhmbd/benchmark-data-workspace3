@@ -1,0 +1,6 @@
+File "./theories/Init/Logic.v", line 526, characters 2-50:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 782, characters 2-23:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.

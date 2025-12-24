@@ -1,0 +1,12 @@
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Equivalence.iff_sym	184	9.586564	1	2
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.imp_iff_compat_l	184	2.657793	2	2
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.f_equal3	184
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.eq_stepl	184
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.iff_stepl	184	2.723202	1	2
+coq-tactician-stdlib.8.11.dev	Coq.Numbers.NatInt.NZSqrt.NZSqrtProp.sqrt_1	184	12.939206	2	2
+coq-tactician-stdlib.8.11.dev	Coq.Numbers.NatInt.NZSqrt.NZSqrtUpProp.sqrt_up_1	184	14.870284	2	2
+coq-tactician-stdlib.8.11.dev	Coq.Logic.Classical_Prop.imply_to_and	184	20.798066	2	2
+coq-tactician-stdlib.8.11.dev	Coq.Logic.Classical_Prop.or_not_and	184	22.761277	1	2
+coq-tactician-stdlib.8.11.dev	Coq.Logic.Classical_Prop.and_not_or	184	17.449468	1	2
+coq-tactician-stdlib.8.11.dev	Coq.Logic.Classical_Prop.Eq_rect_eq.eq_rect_eq	184	21.893948	3	2
+coq-tactician-stdlib.8.11.dev	Coq.Bool.Zerob.zerob_false_intro	184	46.238127	2	2

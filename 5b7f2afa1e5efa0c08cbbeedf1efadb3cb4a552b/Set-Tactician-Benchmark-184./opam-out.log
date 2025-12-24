@@ -1,0 +1,62 @@
+Opam has already been initialized.
+Nothing to do.
+[coq-tactician-api.15.0+8.11] synchronised (git+ssh://git@github.com/BlueRavenAI/coq-tactician-api#5b7f2afa1e5efa0c08cbbeedf1efadb3cb4a552b)
+The following additional pinnings are required by coq-tactician-api.15.0+8.11:
+  - coq-tactician.8.11.dev at git+https://github.com/coq-tactician/coq-tactician.git#3dd49bfebc0d053f9f4c1bcf92069978d4055088
+Pin and install them? [y/n] y
+[coq-tactician.8.11.dev] synchronised (no changes)
+coq-tactician is now pinned to git+https://github.com/coq-tactician/coq-tactician.git#3dd49bfebc0d053f9f4c1bcf92069978d4055088 (version 8.11.dev)
+coq-tactician-api is now pinned to git+ssh://git@github.com/BlueRavenAI/coq-tactician-api#5b7f2afa1e5efa0c08cbbeedf1efadb3cb4a552b (version 15.0+8.11)
+
+<><> Synchronising pinned packages ><><><><><><><><><><><><><><><><><><><><><><>
+[coq-tactician.8.11.dev] synchronised (no changes)
+[coq-tactician-api.15.0+8.11] synchronised (no changes)
+
+The following actions will be performed:
+=== recompile 2 packages
+  ↻ coq-tactician     8.11.dev (pinned)
+  ↻ coq-tactician-api 15.0+8.11 (pinned)
+
+<><> Processing actions <><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+⬇ retrieved coq-tactician.8.11.dev  (no changes)
+⬇ retrieved coq-tactician-api.15.0+8.11  (no changes)
+⊘ removed   coq-tactician-api.15.0+8.11
+⊘ removed   coq-tactician.8.11.dev
+∗ installed coq-tactician.8.11.dev
+∗ installed coq-tactician-api.15.0+8.11
+Done.
+
+<><> coq-tactician.8.11.dev installed successfully ><><><><><><><><><><><><><><>
+=> --- Tactician was successfully installed ---
+
+   In order to enable Tactician, you should run
+
+   tactician enable
+Removed '["tactician" "exec" "--"] {coq-tactician:installed}' from field wrap-build-commands in switch bench
+Added '["tactician" "exec" "--"] {coq-tactician:installed}' to field wrap-build-commands in switch bench
+Removed '["tactician" "exec" "--"] {coq-tactician:installed}' from field wrap-install-commands in switch bench
+Added '["tactician" "exec" "--"] {coq-tactician:installed}' to field wrap-install-commands in switch bench
+Removed '["%{coq-tactician:lib}%/tactician-patch" name version] {coq-tactician:installed}' from field pre-build-commands in switch bench
+Added '["%{coq-tactician:lib}%/tactician-patch" name version] {coq-tactician:installed}' to field pre-build-commands in switch bench
+The following actions will be performed:
+=== install 1 package
+  ∗ coq-tactician-stdlib 8.11.dev  *** WARNING ***
+                                   This package will overwrite Coq's standard library files.
+                                   A backup of the original files will be placed under Coq's
+                                   library directory at user-contrib/tactician-stdlib-backup/
+                                   and they will be restored when you remove this package.
+                                   After installation of this package, all other Coq packages
+                                   also need to be recompiled. Running the 'tactician recompile'
+                                   command-line utility will help with this process.
+
+<><> Processing actions <><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+⬇ retrieved coq-tactician-stdlib.8.11.dev  (no changes)
+∗ installed coq-tactician-stdlib.8.11.dev
+Done.
+
+<><> coq-tactician-stdlib.8.11.dev installed successfully <><><><><><><><><><><>
+=> --- The standard library was successfully recompiled ---
+
+   In order to finish the process, you should run
+
+   tactician recompile

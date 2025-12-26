@@ -1,1 +1,1 @@
-coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Conjunction.proj2	30	8.223374	4	2
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Conjunction.proj2	30	0.104065	1	1	0	synth with cache (only 1: refine (fun v0 : @A /\ @B => match v0 as v1 in (_ /\ _) return (@B) with | conj v1 v2 => (fun (v1 : @A) (v2 : @B) => v2) v1 v2 end)).

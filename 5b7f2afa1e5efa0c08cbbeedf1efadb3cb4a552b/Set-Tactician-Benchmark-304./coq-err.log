@@ -1,0 +1,40 @@
+File "./plugins/rtauto/Bintree.v", line 277, characters 0-28:
+Warning:
+Tactician found a bug in it's tactical decomposition. Please report.
+intros [=H%Pos.succ_not_1]
+intros _tmp_tactician0; (first
+ [ discriminate _tmp_tactician0; idtac
+ | injection _tmp_tactician0 as _tmp_tactician2;
+    (apply Pos.succ_not_1 in _tmp_tactician2 as H; [ idtac | .. ];
+      try clear _tmp_tactician2)
+ | intro_equality_clear _tmp_tactician0; idtac
+ | intro_equality_hnf _tmp_tactician0; idtac ])
+
+File "./theories/Reals/RiemannInt.v", line 742, characters 2-159:
+Warning: Tactician's tactical decomposition crashed. Please report.
+File "./theories/Numbers/Cyclic/Int31/Ring31.v", line 82, characters 0-83:
+Warning: Benchmarking error: Forked process exited with signal -11
+File "./theories/Numbers/Cyclic/Int31/Cyclic31.v", line 1113, characters 1-12:
+Warning: Benchmarking error: Forked process exited with code 1
+File "./theories/Numbers/Cyclic/ZModulo/ZModulo.v", line 402, characters 1-34:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Numbers/Cyclic/ZModulo/ZModulo.v", line 645, characters 1-8:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Numbers/Cyclic/ZModulo/ZModulo.v", line 743, characters 2-23:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./plugins/btauto/Algebra.v", line 475, characters 4-59:
+Warning:
+Tactician found a bug in it's tactical decomposition. Please report.
+enough (Pos.max (Pos.succ i) i0 = i0) as <-; intuition
+enough (_tmp_tactician0 : Pos.max (Pos.succ i) i0 = i0);
+ [ intropattern subst <- _tmp_tactician0; idtac | .. ]; intuition
+
+File "./theories/Reals/ConstructiveCauchyReals.v", line 92, characters 2-9:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/FSets/FMapFacts.v", line 426, characters 0-54:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
